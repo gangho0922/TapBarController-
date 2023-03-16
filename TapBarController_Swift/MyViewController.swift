@@ -14,7 +14,7 @@ class MyViewController: UIViewController {
         self.title = title
         self.view.backgroundColor = bgColor
     }
-    
+    //다른 곳에서 title과 bgColor항목을 받아오기
     override func viewDidLoad() {
         super.viewDidLoad()
     }

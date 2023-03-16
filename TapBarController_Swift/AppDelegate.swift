@@ -26,6 +26,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             UITabBar.appearance().standardAppearance = appearance
             UITabBar.appearance().scrollEdgeAppearance = appearance
         }
+        //탭바와 네비게이터바의 기본 배경 설정!!! (중요)
         return true
     }
 
